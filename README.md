@@ -67,10 +67,8 @@ A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha 
 ## ⌨️ Questão 3:
 
 ```
-Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra 
-podem ser realocadas para formar a outra palavra.
-Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares 
-de substrings que são anagramas.
+Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
+Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
 ```
 ## Detalhes da resolução:
