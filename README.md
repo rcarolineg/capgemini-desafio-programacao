@@ -6,7 +6,8 @@ Repositório criado para hospedar as respostas do Desafio de Programação - Aca
 
 ```
 Instalar o Node.js e o GIT
-Ter um editor de código aberto, pode ser o bloco de notas, mas recomendo o Visual Studio Code
+Ter um editor de código aberto, pode ser o bloco de notas, 
+mas recomendo o Visual Studio Code
 ```
 
 ## ⚙️ Executando os testes
@@ -19,7 +20,8 @@ Clone este repositorio em sua máquina utilizando o gitbash:
 git clone https://github.com/rcarolineg/rcarolineg-capgemini-desafio-programacao.git
 
 ```
-Acesse a pasta clonada em seu repositório e execute cada aplicação utilizando o terminal de sua preferência. Para rodar cada aplicação, basta utlizar:
+Acesse a pasta clonada em seu repositório e execute cada aplicação utilizando o terminal de sua preferência.
+Para rodar cada aplicação, basta utlizar:
 
 ```
 node (nome-do-arquivo).js
@@ -28,13 +30,15 @@ node (nome-do-arquivo).js
 ## ⌨️ Questão 1:
 
 ```
-Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
+Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.
+A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
 ```
 ## Detalhes da resolução:
 
 - Foi utilizado a variável 'degraus' para receber o tamanho da escada 
-- O valor da variável 'degraus' deve ser alterado de acordo com o numero de degraus desejado, e em seguida utilizar o comando node exer1.js no terminal para executar.
+- O valor da variável 'degraus' deve ser alterado de acordo com o numero de degraus desejado, 
+- e em seguida utilizar o comando node exer1.js no terminal para executar.
 - 
 ![image](https://user-images.githubusercontent.com/96622266/154800376-e33a445a-60d4-460a-b12a-413eca6bed5a.png)
 
@@ -42,7 +46,9 @@ Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o car
 ## ⌨️ Questão 2:
 
 ```
-Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
+Débora se inscreveu em uma rede social para se manter em contato com seus amigos.
+A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. 
+O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 
 Possui no mínimo 6 caracteres.
 Contém no mínimo 1 digito.
@@ -54,7 +60,8 @@ Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*(
 ## Detalhes da resolução:
 
 - Foi utilizado a variável 'senha' para receber os caracteres 
-- O valor da variável 'senha' deve ser alterado de acordo com os caracteres desejados, e em seguida utilizar o comando node exer2.js no terminal para executar e verificar se a senha informada é válida.
+- O valor da variável 'senha' deve ser alterado de acordo com os caracteres desejados, 
+e em seguida utilizar o comando node exer2.js no terminal para executar e verificar se a senha informada é válida.
 
 ![image](https://user-images.githubusercontent.com/96622266/154800439-7c90e3c7-833c-4af5-9d25-f145fb1e567a.png)
 A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha ok'
@@ -62,7 +69,9 @@ A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha 
 ## ⌨️ Questão 3:
 
 ```
-Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
+Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas 
+para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número 
+de pares de substrings que são anagramas.
 
 ```
 ## Detalhes da resolução:
