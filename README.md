@@ -66,14 +66,9 @@ e em seguida utilizar o comando node exer2.js no terminal para executar e verifi
 
 A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha ok'
 
-## ⌨️ Questão 3:
+![image](https://user-images.githubusercontent.com/96622266/154804174-5f6d2c03-6fc7-4972-b04e-545d2e2b8d99.png)
 
-```
-Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
-Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
-
-```
-## Detalhes da resolução:
+Ao colocar um senha de apenas 4 caracteres, o terminal indicou para adicionar 2 digitos. Logo após, adicione mais 2 digitos sem colocar os caracteres necessários e o terminal indicou 'senha inválida'
 
 
 ## 🛠️ Construído com
