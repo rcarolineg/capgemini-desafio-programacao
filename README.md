@@ -62,6 +62,8 @@ Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*(
 e em seguida utilizar o comando node exer2.js no terminal para executar e verificar se a senha informada é válida.
 
 ![image](https://user-images.githubusercontent.com/96622266/154800439-7c90e3c7-833c-4af5-9d25-f145fb1e567a.png)
+
+
 A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha ok'
 
 ## ⌨️ Questão 3:
