@@ -68,7 +68,7 @@ A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha 
 
 ![image](https://user-images.githubusercontent.com/96622266/154804174-5f6d2c03-6fc7-4972-b04e-545d2e2b8d99.png)
 
-Ao colocar um senha de apenas 4 caracteres, o terminal indicou para adicionar 2 digitos. Logo após, adicione mais 2 digitos sem colocar os caracteres necessários e o terminal indicou 'senha inválida'
+Ao colocar um senha de apenas 4 caracteres, o terminal indicou 'digite mais 2 digitos'. Logo após, adicionei os 2 digitos sem colocar os caracteres necessários e o terminal indicou 'senha inválida'
 
 
 ## 🛠️ Construído com
