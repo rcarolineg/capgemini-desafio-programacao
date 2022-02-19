@@ -6,8 +6,7 @@ Repositório criado para hospedar as respostas do Desafio de Programação - Aca
 
 ```
 Instalar o Node.js e o GIT
-Ter um editor de código aberto, pode ser o bloco de notas, 
-mas recomendo o Visual Studio Code
+Ter um editor de código aberto, pode ser o bloco de notas, mas recomendo o Visual Studio Code
 ```
 
 ## ⚙️ Executando os testes
@@ -37,9 +36,8 @@ A base e altura da escada devem ser iguais ao valor de n. A última linha não d
 ## Detalhes da resolução:
 
 - Foi utilizado a variável 'degraus' para receber o tamanho da escada 
-- O valor da variável 'degraus' deve ser alterado de acordo com o numero de degraus desejado, 
-- e em seguida utilizar o comando node exer1.js no terminal para executar.
-- 
+- O valor da variável 'degraus' deve ser alterado de acordo com o numero de degraus desejado, e em seguida utilizar o comando node exer1.js no terminal para executar.
+
 ![image](https://user-images.githubusercontent.com/96622266/154800376-e33a445a-60d4-460a-b12a-413eca6bed5a.png)
 
 
@@ -69,9 +67,8 @@ A senha utilizada foi '12@!3sdaAs' e por isso a resposta do terminal foi 'senha 
 ## ⌨️ Questão 3:
 
 ```
-Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas 
-para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número 
-de pares de substrings que são anagramas.
+Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
+Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
 ```
 ## Detalhes da resolução:
